@@ -1,0 +1,33 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="literal" />
+      <item value="magenta" />
+      <item value="sufficiently" />
+      <item value="password" />
+      <item value="Mutable" />
+      <item value="applicable" />
+      <item value="portal" />
+      <item value="award Context" />
+      <item value="award Content" />
+      <item value="FIRST SUBSCRIBE" />
+      <item value="Aggregate" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="3c23ae07e39ea473" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
