@@ -86,9 +86,13 @@
           <option name="url" value="http://58.240.54.113/gerrit/wmap-manager" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/apache/incubator-dubbo-spring-boot-project.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/WorkSpace/unicom" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/WorkSpace/source" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
