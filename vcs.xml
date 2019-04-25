@@ -94,9 +94,13 @@
           <option name="url" value="http://58.240.54.113/gerrit/a/octopus-pc" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:xuxueli0323/xxl-job.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/WorkSpace/unicom" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/WorkSpace/source" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
