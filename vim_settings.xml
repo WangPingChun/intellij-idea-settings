@@ -8,7 +8,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/source/FEBS-Vue/backend/src/main/java/cc/mrbird/febs/common/utils/TreeUtil.java" timestamp="1558072035288" />
       <file name="$USER_HOME$/Workspace/unicom/wx-manage-system/wx-manage-system-server/src/main/java/cn/chinaunicom/js/wx/manage/system/service/impl/UserServiceImpl.java" timestamp="1558071531559">
         <mark key="[" line="156" column="67" />
         <mark key="]" line="157" column="7" />
@@ -28,6 +27,7 @@
         <mark key="." line="111" column="10" />
         <mark key="^" line="111" column="10" />
       </file>
+      <file name="$USER_HOME$/Workspace/unicom/wx-manage/wx-manage-web/src/main/java/cn/chinaunicom/js/wx/manage/web/system/UserController.java" timestamp="1558081945478" />
       <file name="$USER_HOME$/Workspace/unicom/wx-manage-system/wx-manage-system-server/src/main/resources/application.yml" timestamp="1558071380470">
         <mark key="[" line="28" column="20" />
         <mark key="]" line="29" column="4" />
@@ -40,18 +40,29 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
+      <file name="/fragment.java" timestamp="1558082016466">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/unicom/wx-manage/wx-manage-web/src/main/java/cn/chinaunicom/js/wx/manage/web/monitor/LogController.java" timestamp="1558082002014">
+        <mark key="'" line="36" column="67" />
+        <mark key="[" line="36" column="61" />
+        <mark key="]" line="36" column="61" />
+        <mark key="^" line="36" column="60" />
+        <mark key="." line="36" column="61" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="108" column="4" filename="$USER_HOME$/Workspace/source/FEBS-Vue/backend/src/main/java/cc/mrbird/febs/system/manager/UserManager.java" />
       <jump line="85" column="38" filename="$USER_HOME$/Workspace/source/FEBS-Vue/backend/src/main/java/cc/mrbird/febs/system/manager/UserManager.java" />
       <jump line="72" column="23" filename="$USER_HOME$/Workspace/source/FEBS-Vue/backend/src/main/java/cc/mrbird/febs/system/manager/UserManager.java" />
+      <jump line="36" column="67" filename="$USER_HOME$/Workspace/unicom/wx-manage/wx-manage-web/src/main/java/cn/chinaunicom/js/wx/manage/web/monitor/LogController.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>userDto</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
@@ -60,7 +71,7 @@
         <text>/getUser</text>
       </register>
       <register name="-" type="4">
-        <text>router</text>
+        <text>userDto</text>
       </register>
       <register name="/" type="4">
         <text>getUser</text>
@@ -80,6 +91,8 @@
       <history-cmd>
         <entry>/getUser</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
