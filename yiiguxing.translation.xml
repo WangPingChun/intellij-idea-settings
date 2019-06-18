@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="successor" />
       <item value="accommodate" />
       <item value="concurrency Level" />
       <item value="estimated" />
@@ -9,7 +10,6 @@
       <item value="anticipation" />
       <item value="signal" />
       <item value="negative" />
-      <item value="successor" />
       <item value="uninterruptible" />
       <item value="predecessor" />
       <item value="pred" />
@@ -50,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
